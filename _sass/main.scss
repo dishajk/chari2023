@@ -1,0 +1,36 @@
+$colorSecondary:#002c48;
+$colorPrimary:#4F0C17;
+$colorWhite: #FAE6CB;
+$colorTertiary: #1c546f;
+$colorHighlight: #8AAEBB;
+
+body{
+    background-color: $colorWhite;
+    min-height: 100vh;
+        header{
+            background-color: $colorHighlight;
+            nav{
+                .navbar-text{
+                    color: $colorPrimary;
+                }
+            }
+        }
+        main{
+            nav{
+                .nav-link{
+                    color: $colorSecondary;
+                }
+                .nav-link:hover{
+                    background-color: $colorHighlight;
+                    color: $colorPrimary;
+                }
+            }
+        }
+        footer{
+            span{
+                a{
+                    color: inherits;
+                }
+            }
+        }
+}
