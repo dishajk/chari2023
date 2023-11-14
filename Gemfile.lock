@@ -64,6 +64,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  eventmachine (= 1.2.7)
+  ffi (= 1.16.3)
+  http_parser.rb (= 0.8.0)
   jekyll
 
 BUNDLED WITH

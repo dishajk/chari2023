@@ -25,6 +25,18 @@ body{
                     color: $colorPrimary;
                 }
             }
+            h2{
+                color: $colorSecondary
+            }
+            form{
+                .btn{
+                    background-color: $colorHighlight;
+                }
+                .btn:hover{
+                    background-color: $colorSecondary;
+                    color: $colorWhite;
+                }
+            }
         }
         footer{
             span{

@@ -1,10 +1,12 @@
 - name: Home
-  link: /
+  link: /disha/chari2023
 - name: Program Schedule
-  link: /schedule.html
+  link: /disha/chari2023/schedule.html
+- name: Registration
+  link: /disha/chari2023/registration.html
 - name: Event Poster
-  link: /tbu.html
+  link: /disha/chari2023/tbu.html
 - name: List of Participants
-  link: /tbu.html
-- name: Contact Us/ Organising Committee
-  link: /tbu.html
+  link: /disha/chari2023/tbu.html
+- name: Contact Information
+  link: /disha/chari2023/contact.html

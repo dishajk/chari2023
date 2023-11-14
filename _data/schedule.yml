@@ -1,0 +1,15 @@
+  - date: 2023-11-29
+    time: "03:00 PM - 04:30 PM"
+    venue: "IMSc Chennai"
+    talk: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    abstract: "Recusandae, quis iure. Dolore, facere. Dicta id quod harum soluta eos culpa dolores accusantium non quisquam deserunt praesentium sapiente, quam repellat recusandae!"
+  - date: 2023-12-01
+    time: "03:00 PM - 04:30 PM"
+    venue: "Pondicherry University"
+    talk: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    abstract: "Recusandae, quis iure. Dolore, facere. Dicta id quod harum soluta eos culpa dolores accusantium non quisquam deserunt praesentium sapiente, quam repellat recusandae!"
+  - date: 2023-12-04
+    time: "03:00 PM - 04:30 PM"
+    venue: "VIT"
+    talk: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    abstract: "Recusandae, quis iure. Dolore, facere. Dicta id quod harum soluta eos culpa dolores accusantium non quisquam deserunt praesentium sapiente, quam repellat recusandae!"

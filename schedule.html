@@ -1,5 +1,30 @@
 ---
 layout: default
 ---
-
-<p>This page will be updated soon</p>
+<h2>Schedule</h2>
+<table class="table table-borderless">
+    <tbody>
+{% for event in site.data.schedule %}
+        <tr class="table-info">
+            <td>
+                <p>
+                {{ event.date | date_to_string }}</p>
+            </td>
+            <td><p>
+                {{ event.time }}</p>
+            </td>
+            <td><p>
+                {{ event.venue }}
+            </p></td>
+            </tr>
+            <tr>
+            <td colspan="3"><h5>
+                {{event.talk}}</h5>
+                <p>
+                    {{event.abstract}}
+                </p>
+            </td>
+            </tr>
+{% endfor %}
+</tbody>
+</table>
