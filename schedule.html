@@ -3,6 +3,13 @@ layout: default
 ---
 <h2>Schedule</h2>
 <table class="table table-borderless">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Venue</th>
+        </tr>
+    </thead>
     <tbody>
 {% for event in site.data.schedule %}
         <tr class="table-info">
